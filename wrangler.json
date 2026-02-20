@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "widget-ticker",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "4eb077c3-ed0b-434b-8a6c-74705d609834",
+			"database_name": "nyseticker-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
